@@ -3,7 +3,7 @@
 You have two options:
 
 1. `npm install && npm start`
-2. `npm install && npm run build` and [install the extension](https://developer.chrome.com/extensions/getstarted#unpacked) locally.
+2. `npm install && npm run build` and [install the extension](https://developer.chrome.com/extensions/getstarted#unpacked) locally from the build folder.
 
 ![New Tab](./newtab.png)
 
