@@ -1,0 +1,12 @@
+{
+  "short_name": "Engine Digital New Tab",
+  "author": "https://BillSearle.me",
+  "manifest_version": 2,
+  "name": "New Tab at Engine Digital",
+  "description": "Rebranded",
+  "version": "0.1",
+  "offline_enabled": true,
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}
