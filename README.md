@@ -1,3 +1,16 @@
+## Hi Engineer!
+### New Tab Chrome Extension
+You have two options:
+
+1. `npm install && npm start`
+2. `npm install && npm build` and [install the extension](https://developer.chrome.com/extensions/getstarted#unpacked) locally.
+
+![New Tab](./newtab.png)
+
+---
+---
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
