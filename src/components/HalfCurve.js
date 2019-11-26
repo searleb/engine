@@ -2,7 +2,7 @@ import styled from 'styled-components'
 
 export default styled.div`
   overflow: hidden;
-  
+
   &::after {
     content: "";
     width: 100%;
@@ -14,8 +14,6 @@ export default styled.div`
     border-radius: 100%;
     border-color: ${props => props.theme.primary};
     box-sizing: content-box;
-    transition: border-color ${props => props.theme.transitionDurationMs}ms ease;
+    transition: border-color ${props => props.theme.transitionDurationMs}ms ${props => props.theme.transitionEase};
   }
 `
-
-
